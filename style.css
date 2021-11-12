@@ -11,25 +11,28 @@
     float: none;
     box-shadow: 15px 15px 12px pink;
     font-size: 22px;
+margin-top: 5px;
 }
 
 .heading_div2{
     font-size: 19px;
+    
 }
 
 .copyrightfooter{
     background-color: teal;
     color: whitesmoke;
     text-align: center;
-    bottom: 0;
+    bottom:0;
     position: fixed;
     width: 100%;
 }
 
 canvas{
     border: 8px solid aqua;
-    margin-top: 360px;
-    box-shadow: 15px 15px 12px pink;
+    border-radius: 20px;
+    margin-top:330px;
+    box-shadow: 5px 5px 9px palevioletred;
 }
 
 body{
